@@ -5,6 +5,13 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	$sql = "SELECT id, firstname, lastname FROM MyGuests";
+	//$result = $conn->query($sql);
+	//dj+5 screen recording enabled
+	$sql_query="DELETE FROM users WHERE user_id=".$_GET['delete_id'];
+	mysql_query($sql_query);
+	header("Location: $_SERVER[PHP_SELF]");
+	
 	
 }
 // delete condition
