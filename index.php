@@ -5,6 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//SCREEN RECORDING 
+	//dj+5@programmr.com
+	//FINISH 
 	
 }
 // delete condition
