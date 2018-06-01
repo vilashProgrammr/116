@@ -5,7 +5,7 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//NEW CHANGE AFTER environment commit
 }
 // delete condition
 
