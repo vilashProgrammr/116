@@ -5,7 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//other changes
+	//1434334653654336543
 }
 // delete condition
 
