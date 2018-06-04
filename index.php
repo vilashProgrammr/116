@@ -8,6 +8,7 @@ if(isset($_GET['delete_id']))
 	//AFTER EDIT ENV 4th June
 	//Edit environment 2nd time 
 	//*************
+	//THIS is candidate after 2nd time  edit env
 	
 }
 // delete condition
