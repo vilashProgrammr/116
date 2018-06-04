@@ -6,6 +6,9 @@ if(isset($_GET['delete_id']))
 {
 	//delete logic here
 	//AFTER EDIT ENV 4th June
+	//Edit environment 2nd time 
+	//*************
+	
 }
 // delete condition
 
